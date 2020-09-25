@@ -1,1 +1,1 @@
-# Project-On-Student-Marksheet-System-
+# Marksheet management system: Java based project
